@@ -1,0 +1,7 @@
+<resources>
+    <string name="fingerprint_cancel">取消</string>
+    <string name="fingerprint_message">請按壓指紋完成驗證</string>
+    <string name="fingerprint_hint">請按壓指紋完成驗證</string>
+    <string name="fingerprint_recognized">驗證成功</string>
+    <string name="fingerprint_not_recognized">驗證失敗，請重新嘗試</string>
+</resources>
